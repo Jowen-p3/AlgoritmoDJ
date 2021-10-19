@@ -15,7 +15,12 @@ class AlgoritmoDJ{
      * En este metodo se incia el algoritmo
      */
     private void start(){
+        // . . . 
+        // . . . 
+        // . . .
         System.out.println("[OK] starting . . .");
+        System.out.println("Hola");
+        
     
     } 
     public static void main(String[] args) {
