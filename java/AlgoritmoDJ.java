@@ -21,6 +21,9 @@ class AlgoritmoDJ{
         System.out.println("[OK] starting . . .");
         System.out.println("Hola");
         
+        Gui guiInterface =  nuevo  Gui ();
+        guiInterface . setVisible ( verdadero );
+        
     
     } 
     public static void main(String[] args) {
