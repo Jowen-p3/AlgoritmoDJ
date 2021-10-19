@@ -29,5 +29,6 @@ class AlgoritmoDJ{
     public static void main(String[] args) {
         AlgoritmoDJ algoritmoDJ = new AlgoritmoDJ();
         algoritmoDJ.init();
+        dijsktra.init();
     }
 }
